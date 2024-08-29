@@ -12,6 +12,16 @@ that was the first class that I actually enjoyed taking a test. I love challenge
 - Graduating from UNCC
 - A personal project for the campus organization I am in
 - Looking for a job in software
+
+## Goals and Objectives
+- Learn how to integrate different languages together to make a complete application
+- Better understand how to develop a project in an Agile environment
+
+## Current Projects
+- #### Verses in Context
+  - Languages: Python, JavaScript, HTML5, CSS, SQL
+  - The goal of this project is to build an application that allows me to send emails to a mass amount of people at once while also using a website to gather information like name and email that then
+    gets sent into a database
 <!--
 **amcoma0/amcoma0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
