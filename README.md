@@ -3,7 +3,7 @@
 ## About Me
 My name is Alex McComas and I am a Computer Science student at the University of North Carolina at Charlotte. I actually spent my first two years of college at Central Piedmont Community College 
 where is where I discovered that I wanted to be involved in Computer Science somehow as my career. I decided to take a random Java class just for fun in my first semester there and 
-that was the first class that I actually enjoyed taking a test. I love challenges and even moreso, I love solving challenges and the accomplishment that comes with it.
+that was the first class that I actually enjoyed taking a test. I love challenges and even moreso, I love solving those challenges and the accomplishment that comes with it.
 
 - #### Profession: Student
 - #### Languages: Java, Python, JavaScript, HTML5
