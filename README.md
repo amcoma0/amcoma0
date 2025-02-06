@@ -1,24 +1,19 @@
 ## Hi there 👋
 
 ## About Me
-My name is Alex McComas and I am a Computer Science student at the University of North Carolina at Charlotte. I actually spent my first two years of college at Central Piedmont Community College 
-where is where I discovered that I wanted to be involved in Computer Science somehow as my career. I decided to take a random Java class just for fun in my first semester there and 
-that was the first class that I actually enjoyed taking a test. I love challenges and even moreso, I love solving those challenges and the accomplishment that comes with it.
+My name is Alex McComas and I am a recent graduate from the University of North Carolina at Charlotte. I spent my first two years of college at Central Piedmont Community College 
+where is where I discovered that I wanted to be involved in Computer Science somehow in my career. I decided to take a random Java class just for fun in my first semester there and 
+that was the first class that I actually enjoyed taking a test. I love challenges, solving these challenges and the accomplishment that comes with it.
 
-- #### Profession: Student
+- #### Profession: Aspiring Software Engineer
 - #### Languages: Java, Python, JavaScript, HTML5
-
-## What I Am Currently Working On 
-- Graduating from UNCC
-- A personal project for the campus organization I am in
-- Looking for a job in software
 
 ## Goals and Objectives
 - Learn how to integrate different languages together to make a complete application
 - Better understand how to develop a project in an Agile environment
 
 ## Current Projects
-
+- Personal Finance Tracker
 <!--
 **amcoma0/amcoma0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
